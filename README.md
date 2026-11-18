@@ -1,6 +1,6 @@
 # ppp
 
-A new Flutter project.
+ (Google Maps custom polygon search, Riverpod state management, Firebase Firestore & FCM push notifications)
 
 ## Getting Started
 
